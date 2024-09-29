@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1619739899 source:c:\users\noxiepc\downloads\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\noxiepc\downloads\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\ciudad.h
+
+1727551596 source:c:\users\noxiepc\downloads\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1727550490 c:\users\noxiepc\downloads\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\pais.h
+
+1727581212 source:c:\users\noxiepc\downloads\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+
