@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1725493805 source:c:\users\noxiepc\documents\guia poo\ejercicio 2\main.cpp
+	<iostream>
+	"Dado.h"
+
+1725493461 c:\users\noxiepc\documents\guia poo\ejercicio 2\dado.h
+	<ctime>
+
+1725493247 source:c:\users\noxiepc\documents\guia poo\ejercicio 2\dado.h
+	<cstdlib>
+
+1725493487 source:c:\users\noxiepc\documents\guia poo\ejercicio 2\dado.cpp
+	"Dado.h"
+	<ctime>
+

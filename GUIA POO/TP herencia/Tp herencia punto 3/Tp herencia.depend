@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1725834020 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\main.cpp
+	<iostream>
+	"Herramienta.h"
+	"Martillo.h"
+	"Destornillador.h"
+	"Taladro.h"
+	"TaladroPercutor.h"
+	<cstring>
+
+1725663601 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\herramienta.h
+	<iostream>
+	<cstring>
+
+1725833094 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\herramienta.cpp
+	"Herramienta.h"
+	<iostream>
+	<cstring>
+
+1725664527 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\martillo.cpp
+	"Herramienta.h"
+	"Martillo.h"
+	<iostream>
+	<cstring>
+
+1725664519 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\martillo.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725832571 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\destornillador.cpp
+	"Herramienta.h"
+	"Destornillador.h"
+	<iostream>
+	<cstring>
+
+1725832571 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\destornillador.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725833107 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\taladro.cpp
+	"Herramienta.h"
+	"Taladro.h"
+	<iostream>
+	<cstring>
+
+1725832992 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\taladro.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725834047 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\taladropercutor.cpp
+	"TaladroPercutor.h"
+	"Taladro.h"
+	<iostream>
+	<cstring>
+
+1725833940 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia\taladropercutor.h
+	<iostream>
+	<cstring>
+	"Taladro.h"
+
+1725832571 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\destornillador.cpp
+	"Herramienta.h"
+	"Destornillador.h"
+	<iostream>
+	<cstring>
+
+1725834937 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\herramienta.h
+	<iostream>
+	<cstring>
+
+1725832571 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\destornillador.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725834937 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\herramienta.cpp
+	"Herramienta.h"
+	<iostream>
+	<cstring>
+
+1725834394 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\main.cpp
+	<iostream>
+	"Herramienta.h"
+	"Martillo.h"
+	"Destornillador.h"
+	"Taladro.h"
+	"TaladroPercutor.h"
+	<cstring>
+
+1725664519 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\martillo.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725832992 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\taladro.h
+	<iostream>
+	<cstring>
+	"Herramienta.h"
+
+1725833940 c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\taladropercutor.h
+	<iostream>
+	<cstring>
+	"Taladro.h"
+
+1725664527 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\martillo.cpp
+	"Herramienta.h"
+	"Martillo.h"
+	<iostream>
+	<cstring>
+
+1725833107 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\taladro.cpp
+	"Herramienta.h"
+	"Taladro.h"
+	<iostream>
+	<cstring>
+
+1725834047 source:c:\users\noxiepc\documents\guia poo\tp herencia\tp herencia punto 3\taladropercutor.cpp
+	"TaladroPercutor.h"
+	"Taladro.h"
+	<iostream>
+	<cstring>
+

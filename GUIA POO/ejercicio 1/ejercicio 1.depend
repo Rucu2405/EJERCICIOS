@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1725488374 source:c:\users\noxiepc\documents\guia poo\ejercicio 1\main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1725488503 c:\users\noxiepc\documents\guia poo\ejercicio 1\rectangulo.h
+
+1725488556 source:c:\users\noxiepc\documents\guia poo\ejercicio 1\rectangulo.cpp
+	"Rectangulo.h"
+
